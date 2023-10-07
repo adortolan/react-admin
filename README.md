@@ -1,3 +1,5 @@
+React Admin Dashboard Tutorial. Neste projeto de React foram utilizadas as bibliotecas, Material UI, Nivo Charts, Formik, Yup, FullCalendar e Data Grid para construir o projeto inteiro. Esta aplicação consiste de Light and Dark modo, 4 diferentes Gráficos, 3 diferentes Data Table Pages, FAQ Page, Form Page, and Calendar Integration.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
